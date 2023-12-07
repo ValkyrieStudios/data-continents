@@ -1,0 +1,24 @@
+{
+  "name": "@valkyriestudios/data-continents",
+  "version": "0.1.0",
+  "description": "Continents Data Pack",
+  "author": {
+    "name": "Peter Vermeulen",
+    "email": "contact@valkyriestudios.com",
+    "url": "www.valkyriestudios.be"
+  },
+  "keywords": [
+    "data",
+    "json",
+    "continents"
+  ],
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ValkyrieStudios/data-continents.git"
+  },
+  "bugs": {
+    "url": "https://github.com/ValkyrieStudios/data-continents/issues"
+  },
+  "homepage": "https://github.com/ValkyrieStudios/data-continents#readme"
+}
