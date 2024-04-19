@@ -32,4 +32,4 @@ The following is a description of the fields included in the data pack:
 | **[@valkyriestudios/data-timezones](https://www.npmjs.com/package/@valkyriestudios/data-timezones)** | Data pack containing a list of all timezones |
 
 ## Contributors
-- [Peter Vermeulen](mailto:contact@valkyriestudios.be)
+- [Peter Vermeulen](https://www.linkedin.com/in/petervermeulen1/)

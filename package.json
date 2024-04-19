@@ -1,11 +1,10 @@
 {
   "name": "@valkyriestudios/data-continents",
-  "version": "0.2.0",
+  "version": "0.3.0",
   "description": "Continents Data Pack",
   "author": {
     "name": "Peter Vermeulen",
-    "email": "contact@valkyriestudios.com",
-    "url": "www.valkyriestudios.be"
+    "url": "https://www.linkedin.com/in/petervermeulen1/"
   },
   "keywords": [
     "data",
