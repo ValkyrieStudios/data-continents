@@ -15,18 +15,19 @@ npm install --save @valkyriestudios/data-continents
 The data pack contains the following files:
 | File | Description | Included fields |
 |------|-------------|-----------------|
-| raw.json | Full continent data pack | name |
+| raw.json | Full continent data pack | name,code |
 
 ## Fields
 The following is a description of the fields included in the data pack:
-| Field | Description |
-|------|-------------|
-| **name** | The name of the continent |
-| **code** | Continent Code |
+| Field | Description | Example |
+|------|-------------|----------|
+| **name** | The name of the continent | `Europe` |
+| **code** | Continent Code | `EU` |
 
 ## Other data packs
 | Package | Description |
 |------|-------------|
+| **[@valkyriestudios/data-colors](https://www.npmjs.com/package/@valkyriestudios/data-colors)** | Data pack containing a list of all named HTML colors |
 | **[@valkyriestudios/data-countries](https://www.npmjs.com/package/@valkyriestudios/data-countries)** | Data pack containing a list of all countries |
 | **[@valkyriestudios/data-timezones](https://www.npmjs.com/package/@valkyriestudios/data-timezones)** | Data pack containing a list of all timezones |
 
